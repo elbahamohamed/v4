@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
+date: '2020-09-01'
 title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+company: 'ORANO TN'
+location: 'Montigny-le-Brotenneux'
+range: 'September - December 2020'
+url: 'https://www.orano.group/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
