@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'elbahamohamed@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/mohamedELBAHA',
     },
     {
       name: 'Instagram',
@@ -28,6 +28,10 @@ module.exports = {
     {
       name: 'About',
       url: '/#about',
+    },
+    {
+      name: 'Certification',
+      url: '/#certif',
     },
     {
       name: 'Experience',
