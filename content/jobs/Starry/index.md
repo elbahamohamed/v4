@@ -1,10 +1,10 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
+title: 'Intern'
+company: 'OCP'
+location: 'Casablanca, Morocco'
 range: 'July - December 2016'
-url: 'https://starry.com/'
+url: 'https://ocpgroup.ma/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

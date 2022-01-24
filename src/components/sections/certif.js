@@ -5,7 +5,7 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
-  max-width: 900px;
+  max-width: 990px;
 
   .inner {
     display: grid;
@@ -21,7 +21,7 @@ const StyledText = styled.div`
   ul.skills-list {
     display: grid;
     grid-template-columns: repeat(3, minmax(140px, 200px));
-    grid-gap: 0 0;
+    grid-gap: 0 10px;
     padding: 0;
     margin: 20px 0 0 0;
     overflow: hidden;
@@ -60,35 +60,32 @@ const certif = () => {
 
   return (
     <StyledAboutSection id="certif" ref={revealContainer}>
-      <h2 className="numbered-heading">Certification</h2>
+      <h2 className="numbered-heading">Certifications</h2>
 
       <div className="inner">
         <StyledText>
           <div>
-            <p>Here Some of the Certifications I've taken :</p>
-            <p>
-              <a href="https://mohamedelbaha.github.io/art/Coursera%20TFC.pdf">
-                TensorFlow Developer Certificate
-              </a>
-              , Deeplearning.ai - Build NLP, CNN systems using TensorFlow - Apply RNNs, GRUs, and
-              LSTMs.
-            </p>
             <p>
               <a href="https://mohamedelbaha.github.io/art/DLspecialization.pdf">
                 Deep Learning Specialization
               </a>
-              , Deeplearning.ai - 5 courses : Convolutional Neural Networks, Structuring Machine
-              Learning Projects, Structuring Machine Learning Projects, Improving Deep Neural
-              Networks, Sequence models{' '}
+              ,
+              <i>
+                {' '}
+                5 courses : Convolutional Neural Networks, Structuring Machine Learning Projects,
+                Structuring Machine Learning Projects, Improving Deep Neural Networks, Sequence
+                models{' '}
+              </i>
             </p>
             <p>
-              <a href="https://mohamedelbaha.github.io/art/TL_for_NLP.pdf">
-                {' '}
-                Transfer Learning for NLP with TensorFlow Hub{' '}
-              </a>
-              , Used pre-trained NLP text embedding models from TensorFlow Hub, Perform transfer
-              learning to fine-tune models on real-world text data, Visualize model performance
-              metrics with TensorBoard
+              <a href="https://mohamedelbaha.github.io/art/Coursera%20TFC.pdf">
+                TensorFlow Developer{' '}
+              </a>{' '}
+              Certificate,{' '}
+              <i>
+                deeplearning.ai Build NLP, CNN systems using TensorFlow - Apply RNNs, GRUs, and
+                LSTMs.
+              </i>
             </p>
           </div>
         </StyledText>
