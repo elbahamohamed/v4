@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/mohamedelbaha/',
     },
     {
       name: 'Codepen',
@@ -30,7 +30,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Certification',
+      name: 'Certifications',
       url: '/#certif',
     },
     {
