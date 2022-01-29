@@ -30,16 +30,16 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Certifications',
-      url: '/#certif',
-    },
-    {
       name: 'Experience',
       url: '/#jobs',
     },
     {
       name: 'Projects',
       url: '/#projects',
+    },
+    {
+      name: 'Certifications',
+      url: '/#certif',
     },
     {
       name: 'Contact',

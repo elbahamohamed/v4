@@ -68,7 +68,7 @@ const Hero = () => {
         (and occasionally designing) exceptional digital experiences. Currently, I’m focused on
         building accessible, human-centered products at{' '}
         <a href="https://michelin.fr/" target="_blank" rel="noreferrer">
-          Michelin.
+          Michelin
         </a>
         .
       </p>

@@ -134,6 +134,8 @@ const About = () => {
     'Numerical Methods',
     'Optimisation',
     'Operational Research',
+    'Computer Vision',
+    'Parallel programing',
   ];
 
   return (
@@ -144,7 +146,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I'm Passionate about artificial intelligence, I have an appetite for all issues
+              I'm passionate about artificial intelligence, I have an appetite for all issues
               related to machine learning, I like to work on projects from scratch, intervene from
               start to finish (definition of the need, modeling, production).
             </p>
