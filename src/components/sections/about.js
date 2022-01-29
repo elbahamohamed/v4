@@ -129,7 +129,7 @@ const About = () => {
   const skills = [
     'Stochastic Dynamic Models',
     'Advanced Machine Learning',
-    'Stochastic Simulation And Analaysis',
+    'Stochastic Simulation And Analysis',
     'Deep Learning',
     'Numerical Methods',
     'Optimisation',
