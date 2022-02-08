@@ -65,8 +65,8 @@ const Hero = () => {
     <>
       <p>
         I’m a Machine Learning engineer and Data Scientist from France, specializing in building
-        (and occasionally designing) exceptional digital experiences. Currently, I’m focused on
-        building accessible, human-centered products at{' '}
+        AI-powered solutions to a wide variety of problems. Currently, I’m focused on building GANs
+        for data augmentation at{' '}
         <a href="https://michelin.fr/" target="_blank" rel="noreferrer">
           Michelin
         </a>

@@ -87,6 +87,16 @@ const certif = () => {
                 LSTMs.
               </i>
             </p>
+            <p>
+              <a href="https://mohamedelbaha.github.io/art/Coursera%20TFC.pdf">
+                GANs Specialization{' '}
+              </a>{' '}
+              Certificate,{' '}
+              <i>
+                deeplearning.ai Build NLP, CNN systems using TensorFlow - Apply RNNs, GRUs, and
+                LSTMs.
+              </i>
+            </p>
           </div>
         </StyledText>
       </div>
