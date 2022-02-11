@@ -1,14 +1,16 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
+title: 'Text classification of BBC news dataset'
 github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - NLP
+  - LSTM
+  - PCA
+  - TSNE
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+This project is about text classification ie: given a text, we would want to predict its class (tech, business, sport, entertainment or politics),
+We compered perfomence of different models and visualize word embedding in 2D and 3D.
