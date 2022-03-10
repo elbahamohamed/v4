@@ -152,7 +152,7 @@ const About = () => {
             </p>
 
             <p>
-              I have a Master of Engineering from one of top Enginnering Schcools in France,{' '}
+              I have a Master of Engineering from one of top Enginnering Schools in France,{' '}
               <a href="https://imt-atlantique.fr/">IMT Atlantique</a>, And a Bachelor Degree in Pure
               Mathematics from <a href="https://ubo.fr/">University of Western Brittany</a>.
             </p>

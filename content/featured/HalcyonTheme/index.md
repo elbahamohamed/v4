@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Face Mask Detection using Python'
-cover: './halcyon.png'
+cover: './eyegaze.jpg'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
