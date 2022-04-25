@@ -3,7 +3,7 @@ date: '2022-04-01'
 title: 'Data Scientist'
 company: 'Michelin'
 location: 'Clermont-Ferrand, France'
-range: 'April - October 2022'
+range: 'from April 2022'
 url: 'https://www.michelin.fr/'
 ---
 
