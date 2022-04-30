@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'Text classification of BBC news dataset'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
+github: 'https://github.com/mohamedELBAHA/Text-classification-of-BBC-news-dataset'
 
 tech:
   - NLP
