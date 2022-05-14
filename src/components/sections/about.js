@@ -159,7 +159,7 @@ const About = () => {
 
             <p>Here are a the main courses I have taken</p>
           </div>
-
+          <i className="fab fa-docker">fa-docker</i>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
