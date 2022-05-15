@@ -97,6 +97,13 @@ const certif = () => {
                 LSTMs.
               </i>
             </p>
+            <p>
+              <a href="https://mohamedelbaha.github.io/art/Coursera%20TFC.pdf">
+                Probabilistic Deep Learning{' '}
+              </a>{' '}
+              Certificate,{' '}
+              <i>Imperial College London TensorFlow Probability, Uncertainty Quantification.</i>
+            </p>
           </div>
         </StyledText>
       </div>

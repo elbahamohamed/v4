@@ -152,14 +152,13 @@ const About = () => {
             </p>
 
             <p>
-              I have a Master of Engineering from one of top Enginnering Schools in France,{' '}
+              I have a Master of Engineering from one of top Engineering Schools in France,{' '}
               <a href="https://imt-atlantique.fr/">IMT Atlantique</a>, And a Bachelor Degree in Pure
               Mathematics from <a href="https://ubo.fr/">University of Western Brittany</a>.
             </p>
 
             <p>Here are a the main courses I have taken</p>
           </div>
-          <i className="fab fa-docker">fa-docker</i>
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>

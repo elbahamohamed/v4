@@ -7,4 +7,5 @@ range: 'July - December 2016'
 url: 'https://ocpgroup.ma/'
 ---
 
--(internship) Automatization of Microsoft Excel tasks using VBA.
+- Automatization of Microsoft Excel tasks using VBA.
+- Carried out an analytical study of OCP’s environmental management system, Audit standards ISO 1400.

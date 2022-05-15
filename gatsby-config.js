@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Mohamed El Baha',
     description: 'Mohamed El Baha',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://mohamedelbaha.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'MohamedElBaha',
+        short_name: 'MohamedElBaha',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
