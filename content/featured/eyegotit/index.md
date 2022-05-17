@@ -7,9 +7,8 @@ external: 'https://halcyon-theme.netlify.com/'
 tech:
   - VS Code
   - Python
-  - Tensorflow
-  - Keras
-  - MobilNet
+  - Eye Tracking
+  - Eye voice span
 ---
 
-A system to predict the level of english of a reader, using the position of the eyes and voice. Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A system to predict the level of english of a reader by analysing the movement of eye gaze and the phonetics (voice). Introduced a new approach to compute the eye voice span.

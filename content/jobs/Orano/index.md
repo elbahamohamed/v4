@@ -1,6 +1,6 @@
 ---
 date: '2020-09-01'
-title: 'Studio Developer'
+title: 'Intern'
 company: 'ORANO TN'
 location: 'Montigny-le-Brotenneux'
 range: 'September - December 2020'
