@@ -2,8 +2,8 @@
 date: '1'
 title: 'Eye Got it'
 cover: './eyegaze.jpg'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/oaugereau/Eye_Got_It'
+external: 'https://link.springer.com/chapter/10.1007/978-3-031-06555-2_48'
 tech:
   - VS Code
   - Python

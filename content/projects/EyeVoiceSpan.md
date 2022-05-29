@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Eye voice Span '
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'A System for Automatic Calculation of the Eye-Voice Span'
+github: 'https://github.com/oaugereau/Eye_Got_It'
+external: 'https://link.springer.com/chapter/10.1007/978-3-031-06555-2_48'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Python
+  - PyQt5
+  - Vs Code
 company: 'Paper'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A system to predict the level of english of a reader by analysing the movement of eye gaze and the phonetics (voice). Introduced a new approach to compute the eye voice span.
