@@ -8,6 +8,6 @@ url: 'https://www.lisn.upsaclay.fr/'
 ---
 
 - Developed an interface to annotate records and collect Data.
-- Collect, Clen and prepare different type of Data ( Audio, Tabular, Images)
-- Implemented algorithms related to eye gaze mouvement (vectors) and voice (spectros), and prepared experiments to record data from several participants
-- Trained machine learning models with these data in order to automatically estimate his understanding, hesitations, Comprehesion score.
+- Collect, Clean and prepare different types of Data ( Audio, Tabular, Images)
+- Implemented algorithms related to eye gaze mouvement and voice, and prepared experiments to record data from several participants
+- Trained machine learning models with these data in order to automatically estimate the understanding, hesitations and Comprehesion score of a reader.
