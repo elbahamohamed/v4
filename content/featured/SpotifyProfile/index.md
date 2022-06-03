@@ -1,13 +1,13 @@
 ---
 date: '2'
-title: 'Face Mask Detection'
+title: 'Transformers for multi - organ segmentation in abdominal imaging'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/mohamedELBAHA/Semantic-Segmentation-with-Transformer.git'
+external: 'https://github.com/mohamedELBAHA/Semantic-Segmentation-with-Transformer.git'
 tech:
   - Python
   - Tensorflow
   - Keras
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+In this project, we implemented different models for medical image semantic segmentation using pytorch, we explored different approaches : Unet (Full convolutional neural network). Segmenter (Full transformers). Medical Transfomer & TransUnet (Hybrid architectures: CNN + Transformers).
