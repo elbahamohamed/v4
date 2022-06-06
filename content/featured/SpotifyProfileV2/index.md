@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: '- Transformers for multi-organ segmentation in abdominal imaging'
-cover: './medical.png'
+cover: './demo.png'
 external: 'https://github.com/mohamedELBAHA/Semantic-Segmentation-with-Transformer.git'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
