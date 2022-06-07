@@ -2,8 +2,8 @@
 date: '3'
 title: 'Face Mask Detector Using Python'
 cover: './mask.PNG'
-external: 'https://github.com/mohamedELBAHA/Semantic-Segmentation-with-Transformer.git'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://github.com/mohamedELBAHA/Face-mask-detection-with-python'
+cta: 'https://github.com/mohamedELBAHA/Face-mask-detection-with-python'
 tech:
   - Python
   - Tensorflow
