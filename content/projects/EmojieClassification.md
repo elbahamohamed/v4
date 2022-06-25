@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+In this project we worked on creating and training an Object Localization model with TensorFlow. we used TensorFlow's Keras API to create a convolutional neural network which will be trained to classify as well as localize emojis in images.
