@@ -6,7 +6,7 @@ module.exports = {
     description: 'Mohamed El Baha',
     siteUrl: 'https://mohamedelbaha.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@medelbaha',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
