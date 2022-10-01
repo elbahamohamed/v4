@@ -7,7 +7,7 @@ tech:
   - Python
   - PyQt5
   - Vs Code
-company: 'Paper'
+company: 'LISN'
 showInProjects: true
 ---
 
