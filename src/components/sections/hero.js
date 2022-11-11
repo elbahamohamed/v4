@@ -65,8 +65,8 @@ const Hero = () => {
     <>
       <p>
         I’m a Machine Learning engineer and Data Scientist from France, specializing in building
-        AI-powered solutions to a wide variety of problems. Currently, I’m focused on Quantifying
-        Uncertainties of ML models to help take better and accurate decisions at{' '}
+        AI-powered solutions to a wide variety of problems. Currently, I’m a full time Data
+        Scientist at{' '}
         <a href="https://michelin.fr/" target="_blank" rel="noreferrer">
           Michelin
         </a>
