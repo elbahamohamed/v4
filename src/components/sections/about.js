@@ -132,7 +132,7 @@ const About = () => {
     'Stochastic Simulation And Analysis',
     'Deep Learning',
     'Numerical Methods',
-    'Optimisation',
+    'Optimization',
     'Operational Research',
     'Computer Vision',
     'Parallel programing',
