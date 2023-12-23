@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mohamedelbaha.com/sitemap.xml
+Sitemap: https://mohamedelbaha.com/sitemap-index.xml
 Host: https://mohamedelbaha.com
